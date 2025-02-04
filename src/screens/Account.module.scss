@@ -1,0 +1,137 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body{
+   background-color: #f3f3f3;
+}
+
+.wrapper{
+  position: absolute;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  height: 600px;
+  width: 1000px;
+  display: flex;
+  box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
+}
+
+.wrapper .left{
+  width: 35%;
+  background: rgb(85, 79, 232);
+  padding: 30px 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  text-align: center;
+  color: #fff;
+}
+
+.wrapper .left p{
+  font-size: 12px;
+}
+
+.wrapper .right{
+  width: 65%;
+  background: #fff;
+  padding: 30px 25px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.wrapper .right .info,
+.wrapper .right .projects{
+  margin-bottom: 50px;
+}
+
+.wrapper .right .info h3,
+.wrapper .right .projects h3{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #353c4e;
+  text-transform: uppercase;
+}
+
+.wrapper .right .info_data,
+.wrapper .right .projects_data{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper .right .info_data .data,
+.wrapper .right .projects_data .data{
+  width: 45%;
+}
+
+.wrapper .right .info_data .data h4,
+.wrapper .right .projects_data .data h4{
+    color: #353c4e;
+    margin-bottom: 10px;
+}
+
+.wrapper .right .info_data .data p,
+.wrapper .right .projects_data .data p{
+  font-size: 13px;
+  margin-bottom: 10px;
+  color: #919aa3;
+}
+
+.heading{
+  display: block;
+  margin: auto;
+  margin-top: 235px;
+  color: #fff;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 700;
+}
+
+  .btn
+  {
+    text-align: center;
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    z-index: 10; 
+    padding: 10px;
+    border-radius: 20px;
+    width: 130px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(85, 79, 232);
+    transition: background-color 1s;
+  }
+
+  .btn:hover{
+      background-color: rgb(110, 106, 235);
+  }
+
+  .btnRate{
+    text-align: center;
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    z-index: 10; 
+    padding: 10px;
+    border-radius: 20px;
+    width: 220px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(85, 79, 232);
+    transition: background-color 1s;
+  }
+
+  .btnRate:hover{
+    background-color: rgb(110, 106, 235);
+  }
+  .anchor{
+    color: rgb(110, 106, 235);
+  }

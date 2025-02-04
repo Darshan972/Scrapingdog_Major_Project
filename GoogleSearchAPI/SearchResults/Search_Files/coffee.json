@@ -1,0 +1,474 @@
+{
+    "meta": {
+      "api_key": "APIKEY",
+      "q": "coffee",
+      "gl": "us"
+    },
+    "ads": [
+      {
+        "position": 1,
+        "block_position": "top",
+        "title": "Planet Oat Coffee Creamer - Four Delicious Flavors",
+        "snippet": "Rich, creamy, full-bodied Creamer that is just a little bit sweet. Available in French Vanilla, Caramel, Coffee Cake or Sweet Crème. Peanut Free. Gluten Free. Soy Free. Plant Based.CouponsDownload Now Give it a tryFind Planet OatWhere on Earth is Planet Oat? Find your favorite flavor",
+        "displayed_link": "https://www.planetoat.com/https://www.planetoat.com/",
+        "link": "https://planetoat.com/product/coffee-creamers",
+        "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi_0NPy0Pn7AhUog0sFHcwrD9QYABABGgJzZg&ae=2&sig=AOD64_1jChZkDlEQZkbyTXJ5Nscg8hFb1A&q&adurl",
+        "sitelinks": [
+          {
+            "title": "Coupons",
+            "link": "https://planetoat.com/coupons?utm_source=google&utm_medium=cpc&utm_campaign=search&utm_content=coupons",
+            "snippet": "CouponsDownload Now Give it a try"
+          },
+          {
+            "title": "Find Planet Oat",
+            "link": "https://planetoat.com/wheretobuy?utm_source=google&utm_medium=cpc&utm_campaign=search&utm_content=wheretobuy",
+            "snippet": "Find Planet OatWhere on Earth is Planet Oat? Find your favorite flavor"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "block_position": "top",
+        "title": "Make Cold Brew Coffee At Home - Cold Brewed. Simply Better.",
+        "snippet": "Get the cold brew coffee and tea enthusiast the perfect cold brew coffee maker by Toddy®",
+        "displayed_link": "https://www.toddycafe.com/https://www.toddycafe.com/",
+        "link": "https://toddycafe.com/gift-ideas",
+        "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi_0NPy0Pn7AhUog0sFHcwrD9QYABAAGgJzZg&ae=2&sig=AOD64_0H4gbBSxjAbp-9Xzh9MsxPaPkwoQ&q&adurl"
+      },
+      {
+        "position": 3,
+        "block_position": "top",
+        "title": "Coffee - Best Coffee",
+        "snippet": "A premium ready to drink-cold brew coffee in a can that's ready whenever. Our premium...",
+        "displayed_link": "https://www.highbrewcoffee.com/coffee/highbrewhttps://www.highbrewcoffee.com/coffee/highbrew",
+        "link": "https://www.highbrewcoffee.com/collections/coffee",
+        "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi_0NPy0Pn7AhUog0sFHcwrD9QYABADGgJzZg&ae=2&sig=AOD64_3QRt_IIVK-PPeDkLqepoEojLPr-g&q&adurl"
+      },
+      {
+        "position": 4,
+        "block_position": "top",
+        "title": "Vanilla, Mocha, Classic - Pop & Bottle Super Concentrate",
+        "snippet": "Make it your way, whenever, wherever. Pop & Bottle makes being an at-home barista a dream.",
+        "displayed_link": "https://www.walmart.com/https://www.walmart.com/",
+        "link": "https://www.walmart.com/browse/food/bottled-coffee/976759_1086446_1229654",
+        "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi_0NPy0Pn7AhUog0sFHcwrD9QYABACGgJzZg&ae=2&sig=AOD64_1JJYeY9TMyoyUsDjyfN1DT1WCjZA&q&adurl"
+      }
+    ],
+    "knowledge_graph": {
+      "title": "Coffee",
+      "type": "Drink",
+      "description": "Coffee is a drink prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It is the most popular hot drink in the world.\nSeeds of the Coffea plant's fruits are separated to produce unroasted green coffee beans.",
+      "source": {
+        "name": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      "people_also_search_for_link": "https://www.google.com/search?gl=us&hl=en&q=Coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQMSgAegQIexAB",
+      "header_images": [
+        {
+          "source": "https://en.wikipedia.org/wiki/Coffee",
+          "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "source": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+          "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "source": "https://www.medicalnewstoday.com/articles/270202",
+          "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "source": "https://www.britannica.com/topic/coffee",
+          "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "source": "https://www.health.harvard.edu/blog/the-latest-scoop-on-the-health-benefits-of-coffee-2017092512429",
+          "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "source": "https://www.peets.com/",
+          "image": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+        },
+        {
+          "source": "https://www.pbs.org/food/the-history-kitchen/history-coffee/",
+          "image": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+        }
+      ],
+      "list": {
+        "Total Fat": [
+          "0 g",
+          "0%"
+        ],
+        "Saturated fat": [
+          "0 g",
+          "0%"
+        ],
+        "Trans fat regulation": [
+          "0 g",
+          ""
+        ],
+        "Cholesterol": [
+          "0 mg",
+          "0%"
+        ],
+        "Sodium": [
+          "5 mg",
+          "0%"
+        ],
+        "Potassium": [
+          "116 mg",
+          "3%"
+        ],
+        "Total Carbohydrate": [
+          "0 g",
+          "0%"
+        ],
+        "Dietary fiber": [
+          "0 g",
+          "0%"
+        ],
+        "Sugar": [
+          "0 g",
+          ""
+        ],
+        "Protein": [
+          "0.3 g",
+          "0%"
+        ],
+        "Caffeine": [
+          "95 mg",
+          ""
+        ],
+        "Vitamin C": [
+          "",
+          "0%"
+        ],
+        "Calcium": [
+          "",
+          "0%"
+        ],
+        "Iron": [
+          "",
+          "0%"
+        ],
+        "Vitamin D": [
+          "",
+          "0%"
+        ],
+        "Vitamin B6": [
+          "",
+          "0%"
+        ],
+        "Cobalamin": [
+          "",
+          "0%"
+        ],
+        "Magnesium": [
+          "",
+          "1%"
+        ]
+      },
+      "People also search for": [
+        {
+          "title": "Tea",
+          "link": "https://google.com/search?gl=us&hl=en&q=Tea&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTku-1rX0tcMn1LKdXOIpKJwlLmVSfa90_0znjAMcL2sAzX4J_UwMexVra0SvN9zBEkwGwA5u6HSaoI47SyRCD9nb-8Glzx2c5rfIJe-aizf7IAxGOhJh_kG0qL9FIdiWvdohKRx4gRfu0e1hMv_cus-OR01faxKayI3akdtDTPtZF4-BCaT_0qctWJy1y5xtkAOr0_dsLhobE2rbdSGteM1GLxNZDARFa9umM8-6UkPFTmf4Q%3D%3D&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQxA16BAh7EAU",
+          "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "title": "Espresso",
+          "link": "https://google.com/search?gl=us&hl=en&q=Espresso&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeHFN2RiKqNUOGcF0pmVdz3rIrXiuMEhNdO-SfahftpqQIYK3-hB1rA_kOlkAeWqSr6HTBB8G84PquMrIFHofy3tS0AENRg2iT4kQhARW-cqiwd5mwe4HWoM7NfCdXPHKL-9vcPCuQWsMQH0QsiUPQef1wfYHgpF76EoCEd9WgK2RCOVSWy2_UvrDO9ycBWVfnNdmkvoeclcDeyjTxdu3vRmri1-sGC3Vxg1Xf8C1P-tSU7Ac6Db7sVDHZWBhhei19_FP0o%3D&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQxA16BAh7EAc",
+          "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "title": "Cappuccino",
+          "link": "https://google.com/search?gl=us&hl=en&q=Cappuccino&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTmigL1UPC0r0U_ybagN34WHqA4apU4ms9V9QG0v26G58wOPB4iKMRW_l41X07gIlPRnTdWYvnu0eGDbqeCzz9RfMZAEsTczw4xeZic4beA2aPIX9xtFgGAbGH4mFJ2WLTo5ApYyyvd9CvTvy83s8rWcG75Q6bYk20wt_YZcGTxPlUpIpUvcZ29grM3qilSzRXaGpVH48Wujcj8rpXkcWzlsqMqFxXPjt-WbbvDS0hwJ1mvcSDvK4Veoya69DUCD3AeJz3U%3D&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQxA16BAh7EAk",
+          "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+          "title": "Latte",
+          "link": "https://google.com/search?gl=us&hl=en&q=Latte&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgOpsbpSlOQ5357lDfZSh3uYGCUFHT-hy-4cFECW74rUdKcTcmZnXS04_kCZUDv9VEi0xoh8eLfjYkZPIDWn_0K6eSLOXLXxLzMs1iKvFBNhi9rph8jD3vq82jgAiCjpk0DPZ0stSEp-ffRdIIByWrGYGCi8EeLoY73fengsrsXKlKdSG0Xsja9xJs5R0QTiRlgdbQYbPz0vUuDpR98Ka9dgN4xaTsDzBNYGbcDU-g8GJdiJpuo2t306Yg-CqzWcPdHlF5ak%3D&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQxA16BAh7EAs",
+          "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        }
+      ]
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Ane Mae's Coffee and Sandwich Shop",
+        "place_id": "1687994686344788766",
+        "rating": "4.7",
+        "reviews": "380",
+        "address": "Independence, KS",
+        "hours": "Dine-in·Curbside pickup·No delivery",
+        "links": {
+          
+        }
+      },
+      {
+        "position": 2,
+        "title": "Scooter's Coffee",
+        "place_id": "6488039785144263502",
+        "rating": "3.7",
+        "reviews": "19",
+        "address": "Independence, KS",
+        "hours": "Drive-thru chain for coffee & smoothies",
+        "links": {
+          
+        }
+      },
+      {
+        "position": 3,
+        "title": "Cafe Lala",
+        "place_id": "6402350914271327219",
+        "rating": "5.0",
+        "reviews": "4",
+        "address": "Independence, KS",
+        "hours": "Dine-in·Takeout·No delivery",
+        "links": {
+          
+        }
+      },
+      {
+        "more_locations_link": "https://www.google.com/search?gl=us&hl=en&q=coffee&npsic=0&rflfq=1&rldoc=1&rllag=37224969,-95708713,224&tbm=lcl&sa=X&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQtgN6BAhwEAE"
+      }
+    ],
+    "peopleAlsoAskedFor": [
+      {
+        "question": "Is coffee good for health?",
+        "rank": 1
+      },
+      {
+        "question": "What are the 4 types of coffee?",
+        "rank": 2
+      },
+      {
+        "question": "Does coffee increase blood pressure?",
+        "rank": 3
+      },
+      {
+        "question": "Why do we drink coffee?",
+        "rank": 4
+      }
+    ],
+    "organic_results": [
+      {
+        "title": "Coffee - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Coffee",
+        "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+        "snippet": "Coffee is a drink prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due ...",
+        "images": [
+          "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        ],
+        "extensions": [
+          "Region of origin: Horn of Africa and ‎South Ara...‎",
+          "Ingredients: Roasted coffee beans",
+          "Introduced: 15th century",
+          "Flavor: Distinctive, somewhat bitter"
+        ],
+        "inline_sitelinks": [
+          {
+            "title": "Coffee bean",
+            "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+          },
+          {
+            "title": "Coffee production",
+            "link": "https://en.wikipedia.org/wiki/Coffee_production"
+          },
+          {
+            "title": "Coffee preparation",
+            "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "title": "The Coffee Bean & Tea Leaf | CBTL",
+        "link": "https://www.coffeebean.com/",
+        "displayed_link": "https://www.coffeebean.com",
+        "snippet": "Born and brewed in Southern California since 1963, The Coffee Bean & Tea Leaf® is passionate about connecting loyal customers with carefully handcrafted ...",
+        "inline_sitelinks": [
+          {
+            "title": "Store locator",
+            "link": "https://www.coffeebean.com/store-locator"
+          },
+          {
+            "title": "Coffee",
+            "link": "https://www.coffeebean.com/cafe-menu/coffee"
+          },
+          {
+            "title": "Cafe Menu",
+            "link": "https://www.coffeebean.com/cafe-menu"
+          },
+          {
+            "title": "Coffee Sourcing",
+            "link": "https://www.coffeebean.com/our-story/coffee-sourcing"
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "title": "Coffee | Origin, Types, Uses, History, & Facts | Britannica",
+        "link": "https://www.britannica.com/topic/coffee",
+        "displayed_link": "https://www.britannica.com › ... › Food",
+        "snippet": "coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plants of African origin. Coffee is one of the ...",
+        "rank": 3
+      },
+      {
+        "title": "What is Coffee? - National Coffee Association",
+        "link": "https://www.ncausa.org/About-Coffee/What-is-Coffee",
+        "displayed_link": "https://www.ncausa.org › About Coffee",
+        "snippet": "cof·fee /ˈkôfē,ˈkäfē/ noun The berries harvested from species of Coffea plants. Everyone recognizes a roasted coffee bean, but you might not recognize an actual ...",
+        "rank": 4
+      },
+      {
+        "title": "Starbucks Coffee Company",
+        "link": "https://www.starbucks.com/",
+        "displayed_link": "https://www.starbucks.com",
+        "snippet": "More than just great coffee. Explore the menu, sign up for Starbucks® Rewards, manage your gift card and more.",
+        "rank": 5
+      },
+      {
+        "title": "9 Health Benefits of Coffee, Based on Science - Healthline",
+        "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+        "displayed_link": "https://www.healthline.com › Wellness Topics › Nutrition",
+        "snippet": "Coffee is a popular beverage that researchers have studied extensively for its many health benefits, including its ability to increase energy levels, promote ...",
+        "rank": 6
+      },
+      {
+        "title": "Peet's Coffee: The Original Craft Coffee",
+        "link": "https://www.peets.com/",
+        "displayed_link": "https://www.peets.com",
+        "snippet": "Since 1966, Peet's Coffee has offered superior coffees and teas by sourcing the best quality coffee beans and tea leaves in the world and adhering to strict ...",
+        "rank": 7
+      },
+      {
+        "title": "Coffee | The Nutrition Source",
+        "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/",
+        "displayed_link": "https://www.hsph.harvard.edu › ... › Food Features",
+        "snippet": "Coffee beans are the seeds of a fruit called a coffee cherry. Coffee cherries grow on coffee trees from a genus of plants called Coffea. There are a wide ...",
+        "inline_sitelinks": [
+          {
+            "title": "An Error Occurred",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text=An%20error%20occurred."
+          },
+          {
+            "title": "Types",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text=Types,-Coffee%20beans%20are%20the%20seeds"
+          },
+          {
+            "title": "Make",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text="
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "title": "Is Coffee Good for You? - The New York Times",
+        "link": "https://www.nytimes.com/2020/02/13/style/self-care/coffee-benefits.html",
+        "displayed_link": "https://www.nytimes.com › Style › Self-Care",
+        "snippet": "In addition to caffeine, coffee is a dark brew of a thousand chemical compounds that could have potential therapeutic effects on the body. One ...",
+        "inline_sitelinks": [
+          {
+            "title": "Is This A Scam?",
+            "link": "https://www.nytimes.com/2020/02/13/style/self-care/coffee-benefits.html#:~:text=Is%20This%20A%20Scam%3F"
+          },
+          {
+            "title": "Is Coffee Addictive?",
+            "link": "https://www.nytimes.com/2020/02/13/style/self-care/coffee-benefits.html#:~:text=Is%20coffee%20addictive%3F"
+          },
+          {
+            "title": "What Is A Coffee Bean?",
+            "link": "https://www.nytimes.com/2020/02/13/style/self-care/coffee-benefits.html#:~:text=What%20is%20a%20coffee%20bean%3F"
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "title": "31 Coffee Brands, Ranked From Worst To Best - Tasting Table",
+        "link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/",
+        "displayed_link": "https://www.tastingtable.com › coffee-brands-ranked-fr...",
+        "snippet": "From café chains to retail roasters, we've ranked some of the most popular coffee brands from worst to first.",
+        "inline_sitelinks": [
+          {
+            "title": "Coffee Shop",
+            "link": "https://www.tastingtable.com/374113/the-best-coffee-shop-in-every-state/"
+          },
+          {
+            "title": "Make Iced Coffee",
+            "link": "https://www.tastingtable.com/1012213/the-absolute-easiest-way-to-make-iced-coffee/"
+          },
+          {
+            "title": "Beans",
+            "link": "https://www.tastingtable.com/690198/how-to-store-coffee-beans-how-to-buy-coffee-beans/"
+          }
+        ],
+        "rank": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "coffee beans",
+        "link": "https://google.com/search?gl=us&q=coffee+beans"
+      },
+      {
+        "query": "coffee types",
+        "link": "https://google.com/search?gl=us&q=coffee+types"
+      },
+      {
+        "query": "coffee near me",
+        "link": "https://google.com/search?gl=us&q=coffee+near+me"
+      },
+      {
+        "query": "arabica coffee",
+        "link": "https://google.com/search?gl=us&q=arabica+coffee"
+      },
+      {
+        "query": "coffee benefits",
+        "link": "https://google.com/search?gl=us&q=coffee+benefits"
+      },
+      {
+        "query": "coffee plant",
+        "link": "https://google.com/search?gl=us&q=coffee+plant"
+      },
+      {
+        "query": "coffee origin",
+        "link": "https://google.com/search?gl=us&q=coffee+origin"
+      },
+      {
+        "query": "coffee powder",
+        "link": "https://google.com/search?gl=us&q=coffee+powder"
+      }
+    ],
+    "pagination": {
+      "current": "1",
+      "next": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=10&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8NMDegQICRAW",
+      "page_no": {
+        "2": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=10&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAE",
+        "3": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=20&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAG",
+        "4": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=30&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAI",
+        "5": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=40&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAK",
+        "6": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=50&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAM",
+        "7": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=60&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAO",
+        "8": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=70&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAQ",
+        "9": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=80&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAS",
+        "10": "https://www.google.com/search?q=coffee&gl=us&hl=en&ei=lweaY4WwC_3zz7sP6uyJqA4&start=90&sa=N&ved=2ahUKEwjF18ry0Pn7AhX9-XMBHWp2AuUQ8tMDegQICRAU"
+      }
+    },
+    "serpdog_pagination": {
+      "current": "1",
+      "page_no": {
+        "2": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=10",
+        "3": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=20",
+        "4": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=30",
+        "5": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=40",
+        "6": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=50",
+        "7": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=60",
+        "8": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=70",
+        "9": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=80",
+        "10": "https://api.serpdog.io/search?api_key=APIKEY&q=coffee&gl=us&page=90"
+      }
+    }
+  }

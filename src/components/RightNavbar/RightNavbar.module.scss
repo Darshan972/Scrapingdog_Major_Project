@@ -1,0 +1,58 @@
+// @use "./Submenus/Icons";
+.container {
+    display: flex;
+    align-items: center;
+    margin-left: 0vw;
+    padding: var(--padding-sm);
+    border-bottom: 1px solid rgb(211, 211, 211);
+    position: sticky;
+    height: 70px;
+    top: 0;
+    background: white;
+    z-index: 10;
+    svg {
+        font-size: 1.2rem;
+    }
+}
+
+.burger_container {
+    display: none;
+    cursor: pointer;
+    padding: 0.2rem;
+
+    @media screen and (max-width: 1024px) {
+        display: flex;
+    }
+
+    svg {
+        font-size: 1.8rem;
+    }
+}
+
+.flex_container{
+    display: flex;
+}
+
+.str1{
+    width: 165px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.str2{
+    width: 135px;
+    margin-left: 10px;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+    gap: 0.5rem;
+
+    @media screen and (max-width: 360px) {
+        justify-content: flex-start;
+        margin-left: 1rem;
+    }
+}
+
